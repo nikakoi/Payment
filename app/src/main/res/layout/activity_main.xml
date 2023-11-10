@@ -78,6 +78,18 @@
 
     </LinearLayout>
 
+<<<<<<< HEAD
+=======
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reset Password"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+>>>>>>> 7770464 (shualeduri)
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
